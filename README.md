@@ -1,4 +1,4 @@
-**Password Generator**
+## Password Generator
 
 Welcome to the Password Generator project! 🚀
 
